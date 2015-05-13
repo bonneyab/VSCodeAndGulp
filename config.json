@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "VSCodeTest"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-VSCodeTest-3925605b-38b0-4ae7-8eff-96129f2226bf;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
